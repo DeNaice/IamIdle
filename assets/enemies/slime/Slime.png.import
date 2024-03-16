@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://k5po7cayljef"
-path="res://.godot/imported/TX Shadow.png-9fa80909bb6b2c3ce6fe8fd71d6b36a1.ctex"
+uid="uid://cde0wghy66yu7"
+path="res://.godot/imported/Slime.png-2c33ee1e07f24ac53c241802487cca17.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/assetpacks/TopDown/TX Shadow.png"
-dest_files=["res://.godot/imported/TX Shadow.png-9fa80909bb6b2c3ce6fe8fd71d6b36a1.ctex"]
+source_file="res://assets/enemies/slime/Slime.png"
+dest_files=["res://.godot/imported/Slime.png-2c33ee1e07f24ac53c241802487cca17.ctex"]
 
 [params]
 

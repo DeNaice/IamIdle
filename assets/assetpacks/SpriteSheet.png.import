@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bm5uteseipa6i"
-path="res://.godot/imported/Prototype_Worksheet.png-359ef77a247cc7d3a5e467a7c755efd7.ctex"
+uid="uid://cnkcfcg8r31am"
+path="res://.godot/imported/SpriteSheet.png-189a6813fc82066192a29543e3f69b3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player/Prototype_Worksheet.png"
-dest_files=["res://.godot/imported/Prototype_Worksheet.png-359ef77a247cc7d3a5e467a7c755efd7.ctex"]
+source_file="res://assets/assetpacks/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-189a6813fc82066192a29543e3f69b3d.ctex"]
 
 [params]
 
